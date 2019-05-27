@@ -1,0 +1,6 @@
+seaborn
+matplotlib
+nltk
+torch
+numpy
+tqdm
